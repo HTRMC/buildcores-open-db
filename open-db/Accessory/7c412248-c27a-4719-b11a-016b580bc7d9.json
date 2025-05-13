@@ -1,12 +1,18 @@
 {
   "opendb_id": "7c412248-c27a-4719-b11a-016b580bc7d9",
   "metadata": {
-    "part_numbers": []
+    "name": "PlayStation DualSense Edge Wireless Controller",
+    "manufacturer": "Sony Interactive Entertainment",
+    "part_numbers": ["CFI-ZCP1"],
+    "series": "DualSense Edge",
+    "variant": "Edge White",
+    "releaseYear": 2023
   },
   "general_product_information": {
     "amazon_sku": "B0BSYFB99D",
     "newegg_sku": "N82E16879261991",
-    "bestbuy_sku": 6532912,
-    "walmart_sku": 1707140316
+    "bestbuy_sku": "6532912",
+    "walmart_sku": "1707140316",
+    "manufacturer_url": "https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/"
   }
 }

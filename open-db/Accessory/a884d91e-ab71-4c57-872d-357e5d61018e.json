@@ -1,10 +1,16 @@
 {
   "opendb_id": "a884d91e-ab71-4c57-872d-357e5d61018e",
   "metadata": {
-    "part_numbers": []
+    "name": "Xbox Elite Wireless Controller Series 2",
+    "manufacturer": "Microsoft",
+    "part_numbers": ["FST-00003"],
+    "series": "Xbox Elite",
+    "variant": "Series 2",
+    "releaseYear": 2019
   },
   "general_product_information": {
     "amazon_sku": "B082LNJ927",
-    "walmart_sku": 290703334
+    "walmart_sku": 290703334,
+    "manufacturer_url": "https://www.xbox.com/en-US/accessories/controllers/elite-wireless-controller-series-2"
   }
 }

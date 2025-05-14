@@ -1,9 +1,15 @@
 {
   "opendb_id": "61215c58-ef9e-43ad-bb29-70a5f0d1898d",
   "metadata": {
-    "part_numbers": []
+    "name": "DualSense Edge Wireless Controller",
+    "manufacturer": "Sony Interactive Entertainment",
+    "part_numbers": ["1000035016"],
+    "series": "DualSense",
+    "variant": "Edge",
+    "releaseYear": 2023
   },
   "general_product_information": {
-    "amazon_sku": "B0CJGK3B8Y"
+    "amazon_sku": "B0CJGK3B8Y",
+    "manufacturer_url": "https://www.playstation.com/en-us/accessories/dualsense-edge-wireless-controller/"
   }
 }
